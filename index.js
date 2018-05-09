@@ -19,7 +19,7 @@ function sayHiToGrandma(string) {
     return "YES INDEED!"
   }
   else if (mixedCase) {
-    return "I love you, too"
+    return "I love you, too."
   }
 }
 
